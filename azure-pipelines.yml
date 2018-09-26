@@ -18,5 +18,3 @@ steps:
     npm run build
     npm test
   displayName: 'npm install and build
-#adding npm test as part of the azure pipeline
-
